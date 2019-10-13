@@ -1,6 +1,6 @@
 package com.designpattern.creationalpatterns.singleton;
 
-public class SingletonDemo {
+public class SingletonPatternClient {
 
 	public static void main(String [] args) {
 		
